@@ -1,4 +1,6 @@
-## These two functions allow you to cache the inverse of a matrix.
+## These two functions allow you to cache the inverse of a matrix (based on the
+## example functions `makeVector` and `cachemean` from the decription of
+## Assignment 2).
 
 
 ## This function creates a special "matrix" object that can cache its inverse.
